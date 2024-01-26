@@ -992,7 +992,7 @@ body input.navigation-b ul li a:hover:hover {
   font-size: 17px;
   text-align: center;
   line-height: 19px;
-  background: #cccccc;
+  background-color: #cccccc;
 }
 main .grid-container,
 header .grid-container,
